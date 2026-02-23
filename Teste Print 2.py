@@ -1,0 +1,6 @@
+num=int(input("Digite o valor inteiro:"))
+ant=int(num-1)
+suc=int(num+1)
+print("Número:",num)
+print("Antecessor:",ant)
+print("Sucessor:",suc)

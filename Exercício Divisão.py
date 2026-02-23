@@ -1,0 +1,6 @@
+div1=int(input("Digite o valor a ser dividido:"))
+div2=int(input("Digite o valor que dividirá:"))
+resul=int(div1/div2)
+resto=int(div1%div2)
+print("Resultado:",resul)
+print("Resto:",resto)

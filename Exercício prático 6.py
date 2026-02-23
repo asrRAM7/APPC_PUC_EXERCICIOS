@@ -1,0 +1,5 @@
+comp=float(input("Informe o comprimento da sala:"))
+larg=float(input("Informe a largura da sala:"))
+carp=float(input("Informe o preço do metro quadrado do carpete:"))
+print("Área da sala em metros quadrados:",comp*larg)
+print("Custo total do carpete:",(comp*larg)*carp)

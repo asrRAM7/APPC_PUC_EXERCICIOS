@@ -1,0 +1,5 @@
+c=float(input("Digite o comprimento do terreno:"))
+l=float(input("Digite a largura do terreno:"))
+p=float(input("Digite o preço do metro de tela:"))
+a=(c*2)+(l*2)
+print(f"Custo para cercar o terreno: R${a*p:.2f}")
